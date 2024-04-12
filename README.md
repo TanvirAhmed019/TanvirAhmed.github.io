@@ -23,7 +23,7 @@
 
 Hasan, M.N., Ahmed,T., Ashik, M., Hasan, M.J., Azmin, T., Uddin, J.(2023). AnAnalysis of Covid-19 Pandemic Outbreak on Economy using Neural Network and Random Forest. Journal of Information Systems and Telecommunication (JIST),2(42), 163.
 
-## Relevant Projects
+## Projects
 **Predicting Diabetes on Diagnostic using Machine Learning**
 - This project is based on Pima Indian diabetes dataset which predicts whether the patient has diabetes or not.Firstly data analysis and exploratory data analysis is done.Then machine learning models are used and the best performing machine learning model is chosen and saved for predicting the real data.
 
