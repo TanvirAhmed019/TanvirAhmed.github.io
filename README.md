@@ -3,7 +3,7 @@
 #### Technical Skills: Python, Java, SQL, MATLAB, Assembly, Verilog/VHDL, Mathematica, Microsoft Office
 
 ## Education
-- BSc. in Computer Science and Engineering | BRAC University 								       		
+- BSc. in CSE | BRAC University 								       		
 - A Levels	| Cambridge International Examinations 	 			        		
 - O Levels | Cambridge International Examinations 
 
