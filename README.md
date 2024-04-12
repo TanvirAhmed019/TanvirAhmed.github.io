@@ -4,8 +4,8 @@
 
 ## Education
 - BSc. in CSE | BRAC University 								       		
-- A Levels	| Cambridge International Examinations 	 			        		
-- O Levels | Cambridge International Examinations 
+- GCE A Level	| Cambridge International Examinations 	 			        		
+- GCE O Level | Cambridge International Examinations 
 
 ## Work Experience
 **Contractual Lecturer @ BRAC University (_February 2022 - September 2023_)**
